@@ -1,0 +1,31 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.input {
+  padding: 0.5rem;
+  border: 0px solid black;
+  border-radius: 4px;
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+
+.idNotfication {
+  padding: 0.5rem 1rem;
+  background: rgb(20, 194, 20);
+  border: 3px solid green;
+  border-radius: 10px;
+}
+
+.button {
+  padding: 0.3rem 3rem;
+  border: 3px solid black;
+  background: transparent;
+  border-radius: 5px;
+}
